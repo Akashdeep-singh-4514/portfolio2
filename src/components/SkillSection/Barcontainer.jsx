@@ -12,7 +12,8 @@ function Barcontainer() {
         <SkillBox title="python" length="60" />
         <SkillBox title="javascript" length="60" />
         <SkillBox title="react" length="50" />
-        <SkillBox title="django" length="40" />
+        <SkillBox title="django" length="30" />
+        <SkillBox title="three" length="30" />
       </div>
     </>
   );

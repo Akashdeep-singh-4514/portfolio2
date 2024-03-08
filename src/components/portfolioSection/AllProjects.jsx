@@ -43,6 +43,15 @@ function AllProjects() {
           discussions. Upload Profile Picture: Personalize your profile. Remove
           Profile Picture: Customize your representation.
         </ProjectComponent>
+        <ProjectComponent
+          title="globe using threejs"
+          genre="THREE js"
+          Recording="http://res.cloudinary.com/dtx0nm3oa/video/upload/v1709900341/vlnfbt5kwesyadto0q1j.mp4"
+          githublink="https://github.com/Akashdeep-singh-4514/globe-with-three/"
+        >
+          In this threejs project I made a rotating globe using threejs this is
+          my first threejs project
+        </ProjectComponent>
       </div>
     </>
   );
