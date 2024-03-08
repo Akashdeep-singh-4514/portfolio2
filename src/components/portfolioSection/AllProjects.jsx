@@ -1,7 +1,5 @@
 import React from "react";
 import ProjectComponent from "./ProjectComponent";
-import MegaBlogRecording from "../../assets/MegaBlogRecording.mp4";
-import TwitchCloneRecording from "../../assets/TwitchCloneRecording.mp4";
 
 function AllProjects() {
   return (
